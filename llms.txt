@@ -1,0 +1,38 @@
+# Smart Picks Daily
+
+> Smart Picks Daily is a US-focused guide site (for adults 18+) covering survey sites, rewards apps, cashback and everyday money-saving methods. Its promise is "We Check It First": every app, panel or offer flow is walked end to end — sign-up, terms, payout rules — before it is recommended. Some outbound links are sponsored affiliate links labelled #ad. Nothing on the site is guaranteed; readers are always told to read the terms.
+
+## Services (what Smart Picks Daily does for readers)
+
+- Daily Picks: a short rotating shortlist of survey sites, apps and savings offers that passed the day's checks.
+- Checked Apps ("We Check It First"): apps are installed and walked; permissions, point values and cash-out thresholds are verified before listing.
+- Survey Guides: plain-English walkthroughs of how survey panels work — screening, quotas and redemption rules.
+- Rewards Explained: what points and credits are worth, why rates differ, and where rewards money comes from.
+- Savings Playbook: everyday money-saving methods, starting with price-per-unit math.
+- The 10-Minute Test: the standard trial — a new app or panel gets ten honest minutes to show a clear earning path.
+- Scam Spotter: how to spot fake survey/app offers — check what the flow actually is, read the terms, run the permissions check.
+- Deals Alerts (NEW): email alerts when a checked pick changes or a new guide is published.
+- App of the Day (NEW): one app per day with an honest verdict on the checks it passed.
+- Points-Expiry Tracker Guide (NEW): how to log balances, find expiry rules and protect points from inactivity clocks.
+- Community Picks (NEW): reader-suggested offers, stress-tested and rated by how clear their terms are.
+
+## Guides
+
+- [How rewards online actually work, step by step](https://bofrahi12.github.io/smartpicksdaily/how-rewards-online-work.html): the full loop — profile, actions, points, thresholds, redemption, and where the money comes from.
+- [Before you install any app: the 10-second check](https://bofrahi12.github.io/smartpicksdaily/before-you-install-app-check.html): permissions, listing signals and payout clarity checks to run before installing.
+- [Why your points expire (and the 5-minute fix)](https://bofrahi12.github.io/smartpicksdaily/why-points-expire.html): inactivity clocks and program changes, plus a monthly routine that protects balances.
+- [Price per unit: the bag math that saves money](https://bofrahi12.github.io/smartpicksdaily/price-per-unit.html): the price ÷ amount division that reveals true cost per ounce or pound.
+- [Survey terms: 5 words to find first](https://bofrahi12.github.io/smartpicksdaily/survey-terms-five-words.html): eligibility, quota, threshold, expiry and data — the clauses that matter.
+- [Separate email for offers: the tidy-inbox system](https://bofrahi12.github.io/smartpicksdaily/separate-email-for-offers.html): setting up a dedicated inbox for panels and apps.
+
+## Contact / social
+
+- Facebook: https://www.facebook.com/profile.php?id=61596375236643
+- Instagram: https://www.instagram.com/smartpicksdaily98/
+- YouTube: https://www.youtube.com/@smartpicksdaily98
+
+## Compliance notes
+
+- Audience: adults 18+, United States.
+- Sponsored links are labelled #ad; Smart Picks Daily may earn a commission from providers.
+- No earnings, rewards or prizes are promised or guaranteed. Terms, rates and availability change; always read the terms.
