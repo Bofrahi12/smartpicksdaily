@@ -24,6 +24,14 @@
 - [Price per unit: the bag math that saves money](https://bofrahi12.github.io/smartpicksdaily/price-per-unit.html): the price ÷ amount division that reveals true cost per ounce or pound.
 - [Survey terms: 5 words to find first](https://bofrahi12.github.io/smartpicksdaily/survey-terms-five-words.html): eligibility, quota, threshold, expiry and data — the clauses that matter.
 - [Separate email for offers: the tidy-inbox system](https://bofrahi12.github.io/smartpicksdaily/separate-email-for-offers.html): setting up a dedicated inbox for panels and apps.
+- [Cashback apps: how it actually works](https://bofrahi12.github.io/smartpicksdaily/cashback-apps-how-it-works.html): How cashback actually tracks, when it pays, and why some purchases never earn a cent.
+- [How to spot a fake survey site](https://bofrahi12.github.io/smartpicksdaily/how-to-spot-a-fake-survey-site.html): The red flags that mark a fake survey site — before you hand over your email or your time.
+- [Gift cards vs. cash: which payout is worth more](https://bofrahi12.github.io/smartpicksdaily/gift-cards-vs-cash.html): Gift cards often pay less than cash — or more. Here is how to compare payouts before you redeem.
+- [Receipt-scanning apps: the honest walkthrough](https://bofrahi12.github.io/smartpicksdaily/receipt-scanning-apps.html): Snap receipts, earn points: what receipt apps really pay and where the catches hide.
+- [Referral programs, explained honestly](https://bofrahi12.github.io/smartpicksdaily/referral-programs-explained.html): Referral bonuses explained: how they pay, what counts, and when they are worth your time.
+- [When to redeem your points (and when to wait)](https://bofrahi12.github.io/smartpicksdaily/when-to-redeem-points.html): Redeem now or wait? The timing rules that keep your points from losing value.
+
+Every guide carries a descriptive hero image that illustrates its topic.
 
 ## Contact / social
 
