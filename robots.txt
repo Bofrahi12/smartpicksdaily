@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bofrahi12.github.io/smartpicksdaily/sitemap.xml
+Sitemap: https://smartpicksdaily.onrender.com/sitemap.xml

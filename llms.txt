@@ -18,32 +18,32 @@
 
 ## Guides
 
-- [How rewards online actually work, step by step](https://bofrahi12.github.io/smartpicksdaily/how-rewards-online-work.html): the full loop — profile, actions, points, thresholds, redemption, and where the money comes from.
-- [Before you install any app: the 10-second check](https://bofrahi12.github.io/smartpicksdaily/before-you-install-app-check.html): permissions, listing signals and payout clarity checks to run before installing.
-- [Why your points expire (and the 5-minute fix)](https://bofrahi12.github.io/smartpicksdaily/why-points-expire.html): inactivity clocks and program changes, plus a monthly routine that protects balances.
-- [Price per unit: the bag math that saves money](https://bofrahi12.github.io/smartpicksdaily/price-per-unit.html): the price ÷ amount division that reveals true cost per ounce or pound.
-- [Survey terms: 5 words to find first](https://bofrahi12.github.io/smartpicksdaily/survey-terms-five-words.html): eligibility, quota, threshold, expiry and data — the clauses that matter.
-- [Separate email for offers: the tidy-inbox system](https://bofrahi12.github.io/smartpicksdaily/separate-email-for-offers.html): setting up a dedicated inbox for panels and apps.
-- [Cashback apps: how it actually works](https://bofrahi12.github.io/smartpicksdaily/cashback-apps-how-it-works.html): How cashback actually tracks, when it pays, and why some purchases never earn a cent.
-- [How to spot a fake survey site](https://bofrahi12.github.io/smartpicksdaily/how-to-spot-a-fake-survey-site.html): The red flags that mark a fake survey site — before you hand over your email or your time.
-- [Gift cards vs. cash: which payout is worth more](https://bofrahi12.github.io/smartpicksdaily/gift-cards-vs-cash.html): Gift cards often pay less than cash — or more. Here is how to compare payouts before you redeem.
-- [Receipt-scanning apps: the honest walkthrough](https://bofrahi12.github.io/smartpicksdaily/receipt-scanning-apps.html): Snap receipts, earn points: what receipt apps really pay and where the catches hide.
-- [Referral programs, explained honestly](https://bofrahi12.github.io/smartpicksdaily/referral-programs-explained.html): Referral bonuses explained: how they pay, what counts, and when they are worth your time.
-- [When to redeem your points (and when to wait)](https://bofrahi12.github.io/smartpicksdaily/when-to-redeem-points.html): Redeem now or wait? The timing rules that keep your points from losing value.
-- [Why some offers are US-only](https://bofrahi12.github.io/smartpicksdaily/why-offers-are-us-only.html): Geo rules explained: why offers vanish by country, how location checks work, and what to check first.
-- [Store brand vs name brand: what's actually worth buying generic](https://bofrahi12.github.io/smartpicksdaily/store-brand-vs-name-brand.html): Which groceries are worth buying generic, which are worth the name brand, and the unit-price check that settles it.
-- [How to save money on groceries: the 15-minute weekly routine](https://bofrahi12.github.io/smartpicksdaily/the-15-minute-weekly-deals-routine.html): A 15-minute weekly routine: plan before you shop, check unit prices at the store, and use what you already own.
-- [Apps that pay real money: how to tell the legit ones from the scams](https://bofrahi12.github.io/smartpicksdaily/apps-that-pay-real-money-legit-check.html): Green flags and red flags, realistic earnings, and payout checks to run before you spend your time.
-- [How to tell if an app is safe to download: the 60-second check](https://bofrahi12.github.io/smartpicksdaily/how-to-tell-if-an-app-is-safe.html): Developer identity, Data Safety, recent reviews, permissions and Play Protect — in sixty seconds.
-- [Which app permissions should you turn off? The allow-or-deny guide](https://bofrahi12.github.io/smartpicksdaily/permissions-audit-what-to-switch-off.html): A permission-by-permission allow-or-deny guide, with a table by app type and Permission Manager steps.
-- [The pantry check that cuts your weekly bill](https://bofrahi12.github.io/smartpicksdaily/the-pantry-check-that-cuts-your-weekly-bill.html): The pantry-first checklist that turns what you already own into the week's meals.
+- [How rewards online actually work, step by step](https://smartpicksdaily.onrender.com/how-rewards-online-work.html): the full loop — profile, actions, points, thresholds, redemption, and where the money comes from.
+- [Before you install any app: the 10-second check](https://smartpicksdaily.onrender.com/before-you-install-app-check.html): permissions, listing signals and payout clarity checks to run before installing.
+- [Why your points expire (and the 5-minute fix)](https://smartpicksdaily.onrender.com/why-points-expire.html): inactivity clocks and program changes, plus a monthly routine that protects balances.
+- [Price per unit: the bag math that saves money](https://smartpicksdaily.onrender.com/price-per-unit.html): the price ÷ amount division that reveals true cost per ounce or pound.
+- [Survey terms: 5 words to find first](https://smartpicksdaily.onrender.com/survey-terms-five-words.html): eligibility, quota, threshold, expiry and data — the clauses that matter.
+- [Separate email for offers: the tidy-inbox system](https://smartpicksdaily.onrender.com/separate-email-for-offers.html): setting up a dedicated inbox for panels and apps.
+- [Cashback apps: how it actually works](https://smartpicksdaily.onrender.com/cashback-apps-how-it-works.html): How cashback actually tracks, when it pays, and why some purchases never earn a cent.
+- [How to spot a fake survey site](https://smartpicksdaily.onrender.com/how-to-spot-a-fake-survey-site.html): The red flags that mark a fake survey site — before you hand over your email or your time.
+- [Gift cards vs. cash: which payout is worth more](https://smartpicksdaily.onrender.com/gift-cards-vs-cash.html): Gift cards often pay less than cash — or more. Here is how to compare payouts before you redeem.
+- [Receipt-scanning apps: the honest walkthrough](https://smartpicksdaily.onrender.com/receipt-scanning-apps.html): Snap receipts, earn points: what receipt apps really pay and where the catches hide.
+- [Referral programs, explained honestly](https://smartpicksdaily.onrender.com/referral-programs-explained.html): Referral bonuses explained: how they pay, what counts, and when they are worth your time.
+- [When to redeem your points (and when to wait)](https://smartpicksdaily.onrender.com/when-to-redeem-points.html): Redeem now or wait? The timing rules that keep your points from losing value.
+- [Why some offers are US-only](https://smartpicksdaily.onrender.com/why-offers-are-us-only.html): Geo rules explained: why offers vanish by country, how location checks work, and what to check first.
+- [Store brand vs name brand: what's actually worth buying generic](https://smartpicksdaily.onrender.com/store-brand-vs-name-brand.html): Which groceries are worth buying generic, which are worth the name brand, and the unit-price check that settles it.
+- [How to save money on groceries: the 15-minute weekly routine](https://smartpicksdaily.onrender.com/the-15-minute-weekly-deals-routine.html): A 15-minute weekly routine: plan before you shop, check unit prices at the store, and use what you already own.
+- [Apps that pay real money: how to tell the legit ones from the scams](https://smartpicksdaily.onrender.com/apps-that-pay-real-money-legit-check.html): Green flags and red flags, realistic earnings, and payout checks to run before you spend your time.
+- [How to tell if an app is safe to download: the 60-second check](https://smartpicksdaily.onrender.com/how-to-tell-if-an-app-is-safe.html): Developer identity, Data Safety, recent reviews, permissions and Play Protect — in sixty seconds.
+- [Which app permissions should you turn off? The allow-or-deny guide](https://smartpicksdaily.onrender.com/permissions-audit-what-to-switch-off.html): A permission-by-permission allow-or-deny guide, with a table by app type and Permission Manager steps.
+- [The pantry check that cuts your weekly bill](https://smartpicksdaily.onrender.com/the-pantry-check-that-cuts-your-weekly-bill.html): The pantry-first checklist that turns what you already own into the week's meals.
 
 ## Hubs and our method
 
-- [Rewards guides: surveys, points and apps, checked first](https://bofrahi12.github.io/smartpicksdaily/rewards-guides.html): Every rewards guide in one place — how points work, survey terms, payout rules and the checks we run first.
-- [Save money on groceries and everyday spending](https://bofrahi12.github.io/smartpicksdaily/savings-guides.html): Every savings guide in one place — price per unit, store brands, weekly routines, pantry checks and cashback apps.
-- [Apps, checked first: safety, permissions and payouts](https://bofrahi12.github.io/smartpicksdaily/apps-guides.html): Every apps guide in one place — safety checks, permissions audits, payout rules and the red flags to spot first.
-- [How we check every pick](https://bofrahi12.github.io/smartpicksdaily/about-how-we-check.html): Our method — what we walk, what we read, and what we never recommend, including the offer we blacklisted.
+- [Rewards guides: surveys, points and apps, checked first](https://smartpicksdaily.onrender.com/rewards-guides.html): Every rewards guide in one place — how points work, survey terms, payout rules and the checks we run first.
+- [Save money on groceries and everyday spending](https://smartpicksdaily.onrender.com/savings-guides.html): Every savings guide in one place — price per unit, store brands, weekly routines, pantry checks and cashback apps.
+- [Apps, checked first: safety, permissions and payouts](https://smartpicksdaily.onrender.com/apps-guides.html): Every apps guide in one place — safety checks, permissions audits, payout rules and the red flags to spot first.
+- [How we check every pick](https://smartpicksdaily.onrender.com/about-how-we-check.html): Our method — what we walk, what we read, and what we never recommend, including the offer we blacklisted.
 
 Every guide carries a descriptive hero image that illustrates its topic.
 
