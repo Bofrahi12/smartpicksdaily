@@ -38,6 +38,13 @@
 - [Which app permissions should you turn off? The allow-or-deny guide](https://bofrahi12.github.io/smartpicksdaily/permissions-audit-what-to-switch-off.html): A permission-by-permission allow-or-deny guide, with a table by app type and Permission Manager steps.
 - [The pantry check that cuts your weekly bill](https://bofrahi12.github.io/smartpicksdaily/the-pantry-check-that-cuts-your-weekly-bill.html): The pantry-first checklist that turns what you already own into the week's meals.
 
+## Hubs and our method
+
+- [Rewards guides: surveys, points and apps, checked first](https://bofrahi12.github.io/smartpicksdaily/rewards-guides.html): Every rewards guide in one place — how points work, survey terms, payout rules and the checks we run first.
+- [Save money on groceries and everyday spending](https://bofrahi12.github.io/smartpicksdaily/savings-guides.html): Every savings guide in one place — price per unit, store brands, weekly routines, pantry checks and cashback apps.
+- [Apps, checked first: safety, permissions and payouts](https://bofrahi12.github.io/smartpicksdaily/apps-guides.html): Every apps guide in one place — safety checks, permissions audits, payout rules and the red flags to spot first.
+- [How we check every pick](https://bofrahi12.github.io/smartpicksdaily/about-how-we-check.html): Our method — what we walk, what we read, and what we never recommend, including the offer we blacklisted.
+
 Every guide carries a descriptive hero image that illustrates its topic.
 
 ## Contact / social
