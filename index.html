@@ -11,7 +11,8 @@
 <meta property="og:title" content="Smart Picks Daily — We Check It First">
 <meta property="og:description" content="Checked survey sites, rewards apps and money-saving guides for US readers. Every flow walked and tested before we recommend it.">
 <meta property="og:url" content="https://smartpicksdaily.onrender.com/">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://smartpicksdaily.onrender.com/hero-poster.jpg">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="styles.css">
 <style>
 /* 3D intro hero (index only): canvas sits behind the DOM headline; if WebGL/CDN fail the navy hero + headline remain. */
@@ -105,6 +106,17 @@
   </div>
 </section>
 
+<!-- Trust strip: real numbers only — every figure is verifiable from our own checks. -->
+<section class="trust" aria-label="Smart Picks Daily in numbers">
+  <div class="wrap">
+    <div class="stat"><b>23</b><span>step-by-step guides</span></div>
+    <div class="stat"><b>10</b><span>services, one method</span></div>
+    <div class="stat"><b>1</b><span>offer blacklisted after we walked it</span></div>
+    <div class="stat"><b>0</b><span>earnings promises, ever</span></div>
+    <p class="trust-note">Every pick is walked end to end before it reaches this page. <a href="about-how-we-check.html">Read how we check &rarr;</a></p>
+  </div>
+</section>
+
 <section class="section watch" id="watch">
   <div class="wrap">
     <h2>Watch: <em>the 10-second check</em></h2>
@@ -179,17 +191,32 @@
   </div>
 </section>
 
+<!-- Proof section: the 4-step check, with the real blacklist example. -->
+<section class="section" id="how-we-check">
+  <div class="wrap">
+    <h2>How we check, <em>in four steps</em></h2>
+    <p class="sub">No pick reaches this site on a promise. This is the exact routine behind every guide and every recommendation.</p>
+    <div class="steps">
+      <div class="step"><b>1</b><h3>Sign up for real</h3><p>We create a real account and go through the same sign-up a reader would — no shortcuts, no test mode.</p></div>
+      <div class="step"><b>2</b><h3>Read the terms</h3><p>Payout rules, thresholds, expiry clocks, data use. If the terms hide the catch, we say so in the guide.</p></div>
+      <div class="step"><b>3</b><h3>Walk the flow</h3><p>Install, permissions, earning path, cash-out — end to end, on a real device, until the money path is clear or it breaks.</p></div>
+      <div class="step"><b>4</b><h3>Verdict</h3><p>It passes, or it does not get listed. One heavily promoted offer failed our walk and was blacklisted — we named it, and we still do not recommend it.</p></div>
+    </div>
+    <p style="margin-top:18px"><a href="about-how-we-check.html">Read the full method, including the offer we blacklisted &rarr;</a></p>
+  </div>
+</section>
+
 <section class="section" id="alerts" style="background:var(--bg2); border-top:1px solid var(--line); border-bottom:1px solid var(--line)">
   <div class="wrap">
     <span class="badge">New</span>
     <h2 style="margin-top:10px">Deals <em>Alerts</em></h2>
-    <p class="sub">One short email when a checked pick changes, a new guide drops, or an app of the day is posted. No noise — just the picks that passed.</p>
+    <p class="sub">One short alert when a checked pick changes, a new guide drops, or an app of the day is posted. No noise — just the picks that passed.</p>
     <form class="alerts" id="alerts-form" novalidate>
       <label for="alerts-email" style="font-weight:600">Email address</label>
       <input type="email" id="alerts-email" name="email" placeholder="you@example.com" required autocomplete="email">
-      <button class="btn" type="submit">Sign me up for Deals Alerts</button>
-      <p class="ok" id="alerts-ok">You&rsquo;re on the list — watch your inbox for a confirmation. Welcome aboard.</p>
-      <p class="disc">For adults 18+. We email only about Smart Picks Daily picks and guides. Unsubscribe anytime with one click. Offers mentioned in alerts are sponsored (#ad) where marked; nothing is guaranteed, always read the terms.</p>
+      <button class="btn" type="submit">Save my email for Deals Alerts</button>
+      <p class="ok" id="alerts-ok">Saved on this device — the alerts list opens soon. Check back here for the first alert.</p>
+      <p class="disc">For adults 18+. When alerts launch, we email only about Smart Picks Daily picks and guides. Unsubscribe anytime with one click. Offers mentioned in alerts are sponsored (#ad) where marked; nothing is guaranteed, always read the terms.</p>
     </form>
   </div>
 </section>
@@ -200,116 +227,139 @@
     <p class="sub">Start with the guide that matches the question you are asking today. Each one is step by step, and each one ends with the checks we run ourselves.</p>
     <div class="grid">
       <div class="card">
+        <a class="card-img" href="how-rewards-online-work.html" tabindex="-1" aria-hidden="true"><img src="images/how-rewards-online-work.jpg" alt="" loading="lazy"></a>
         <h3><a href="how-rewards-online-work.html">How rewards online actually work, step by step</a></h3>
         <p>Points, thresholds, redemption — the full loop explained, including where the money comes from and why rates differ.</p>
         <span class="more"><a href="how-rewards-online-work.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="before-you-install-app-check.html" tabindex="-1" aria-hidden="true"><img src="images/before-you-install-app-check.jpg" alt="" loading="lazy"></a>
         <h3><a href="before-you-install-app-check.html">Before you install any app: the 10-second check</a></h3>
         <p>Three fast checks — permissions, listing signals, payout clarity — that take seconds and filter out most bad apps.</p>
         <span class="more"><a href="before-you-install-app-check.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="why-points-expire.html" tabindex="-1" aria-hidden="true"><img src="images/why-points-expire.jpg" alt="" loading="lazy"></a>
         <h3><a href="why-points-expire.html">Why your points expire (and the 5-minute fix)</a></h3>
         <p>Inactivity clocks quietly delete balances. Here is how expiry rules work and the five-minute routine that protects yours.</p>
         <span class="more"><a href="why-points-expire.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="price-per-unit.html" tabindex="-1" aria-hidden="true"><img src="images/price-per-unit.jpg" alt="" loading="lazy"></a>
         <h3><a href="price-per-unit.html">Price per unit: the bag math that saves money</a></h3>
         <p>The bigger bag is not always the better deal. Learn the ten-second division that tells you the truth at the shelf.</p>
         <span class="more"><a href="price-per-unit.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="survey-terms-five-words.html" tabindex="-1" aria-hidden="true"><img src="images/survey-terms-five-words.jpg" alt="" loading="lazy"></a>
         <h3><a href="survey-terms-five-words.html">Survey terms: 5 words to find first</a></h3>
         <p>Eligibility, quota, threshold, expiry, data. Find these five words in any terms page and you will know what you are joining.</p>
         <span class="more"><a href="survey-terms-five-words.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="separate-email-for-offers.html" tabindex="-1" aria-hidden="true"><img src="images/separate-email-for-offers.jpg" alt="" loading="lazy"></a>
         <h3><a href="separate-email-for-offers.html">Separate email for offers: the tidy-inbox system</a></h3>
         <p>One dedicated inbox for panels and apps keeps your main email clean, safer and easier to manage. Here is the setup.</p>
         <span class="more"><a href="separate-email-for-offers.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="cashback-apps-how-it-works.html" tabindex="-1" aria-hidden="true"><img src="images/cashback-apps-how-it-works.jpg" alt="" loading="lazy"></a>
         <h3><a href="cashback-apps-how-it-works.html">Cashback apps: how it actually works</a></h3>
         <p>How cashback actually tracks, when it pays, and why some purchases never earn a cent.</p>
         <span class="more"><a href="cashback-apps-how-it-works.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="how-to-spot-a-fake-survey-site.html" tabindex="-1" aria-hidden="true"><img src="images/how-to-spot-a-fake-survey-site.jpg" alt="" loading="lazy"></a>
         <h3><a href="how-to-spot-a-fake-survey-site.html">How to spot a fake survey site</a></h3>
         <p>The red flags that mark a fake survey site — before you hand over your email or your time.</p>
         <span class="more"><a href="how-to-spot-a-fake-survey-site.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="gift-cards-vs-cash.html" tabindex="-1" aria-hidden="true"><img src="images/gift-cards-vs-cash.jpg" alt="" loading="lazy"></a>
         <h3><a href="gift-cards-vs-cash.html">Gift cards vs. cash: which payout is worth more</a></h3>
         <p>Gift cards often pay less than cash — or more. Here is how to compare payouts before you redeem.</p>
         <span class="more"><a href="gift-cards-vs-cash.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="receipt-scanning-apps.html" tabindex="-1" aria-hidden="true"><img src="images/receipt-scanning-apps.jpg" alt="" loading="lazy"></a>
         <h3><a href="receipt-scanning-apps.html">Receipt-scanning apps: the honest walkthrough</a></h3>
         <p>Snap receipts, earn points: what receipt apps really pay and where the catches hide.</p>
         <span class="more"><a href="receipt-scanning-apps.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="referral-programs-explained.html" tabindex="-1" aria-hidden="true"><img src="images/referral-programs-explained.jpg" alt="" loading="lazy"></a>
         <h3><a href="referral-programs-explained.html">Referral programs, explained honestly</a></h3>
         <p>Referral bonuses explained: how they pay, what counts, and when they are worth your time.</p>
         <span class="more"><a href="referral-programs-explained.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="when-to-redeem-points.html" tabindex="-1" aria-hidden="true"><img src="images/when-to-redeem-points.jpg" alt="" loading="lazy"></a>
         <h3><a href="when-to-redeem-points.html">When to redeem your points (and when to wait)</a></h3>
         <p>Redeem now or wait? The timing rules that keep your points from losing value.</p>
         <span class="more"><a href="when-to-redeem-points.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="why-offers-are-us-only.html" tabindex="-1" aria-hidden="true"><img src="images/why-offers-are-us-only.jpg" alt="" loading="lazy"></a>
         <h3><a href="why-offers-are-us-only.html">Why some offers are US-only</a></h3>
         <p>Geo rules explained: why offers vanish by country, how location checks work, and what to check first.</p>
         <span class="more"><a href="why-offers-are-us-only.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="store-brand-vs-name-brand.html" tabindex="-1" aria-hidden="true"><img src="images/store-brand-vs-name-brand.jpg" alt="" loading="lazy"></a>
         <h3><a href="store-brand-vs-name-brand.html">Store brand vs name brand: what&rsquo;s actually worth buying generic</a></h3>
         <p>Which groceries are worth buying generic, which are worth the name brand, and the unit-price check that settles it.</p>
         <span class="more"><a href="store-brand-vs-name-brand.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="the-15-minute-weekly-deals-routine.html" tabindex="-1" aria-hidden="true"><img src="images/the-15-minute-weekly-deals-routine.jpg" alt="" loading="lazy"></a>
         <h3><a href="the-15-minute-weekly-deals-routine.html">How to save money on groceries: the 15-minute weekly routine</a></h3>
         <p>Fifteen minutes a week — plan before you shop, discipline at the store, and a three-minute reset at home.</p>
         <span class="more"><a href="the-15-minute-weekly-deals-routine.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="apps-that-pay-real-money-legit-check.html" tabindex="-1" aria-hidden="true"><img src="images/apps-that-pay-real-money-legit-check.jpg" alt="" loading="lazy"></a>
         <h3><a href="apps-that-pay-real-money-legit-check.html">Apps that pay real money: how to tell the legit ones from the scams</a></h3>
         <p>Green flags and red flags, realistic earnings, and payout checks to run before you spend your time.</p>
         <span class="more"><a href="apps-that-pay-real-money-legit-check.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="how-to-tell-if-an-app-is-safe.html" tabindex="-1" aria-hidden="true"><img src="images/how-to-tell-if-an-app-is-safe.jpg" alt="" loading="lazy"></a>
         <h3><a href="how-to-tell-if-an-app-is-safe.html">How to tell if an app is safe to download: the 60-second check</a></h3>
         <p>Developer identity, Data Safety, recent reviews, permissions and Play Protect — in sixty seconds.</p>
         <span class="more"><a href="how-to-tell-if-an-app-is-safe.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="permissions-audit-what-to-switch-off.html" tabindex="-1" aria-hidden="true"><img src="images/permissions-audit-what-to-switch-off.jpg" alt="" loading="lazy"></a>
         <h3><a href="permissions-audit-what-to-switch-off.html">Which app permissions should you turn off? The allow-or-deny guide</a></h3>
         <p>A permission-by-permission guide: what to allow, what to deny, and how to change them.</p>
         <span class="more"><a href="permissions-audit-what-to-switch-off.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="the-pantry-check-that-cuts-your-weekly-bill.html" tabindex="-1" aria-hidden="true"><img src="images/the-pantry-check-that-cuts-your-weekly-bill.jpg" alt="" loading="lazy"></a>
         <h3><a href="the-pantry-check-that-cuts-your-weekly-bill.html">The pantry check that cuts your weekly bill</a></h3>
         <p>Check what you own before you buy anything new, and build the week&rsquo;s meals from it.</p>
         <span class="more"><a href="the-pantry-check-that-cuts-your-weekly-bill.html">Read the guide →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="rewards-guides.html" tabindex="-1" aria-hidden="true"><img src="images/rewards-guides.jpg" alt="" loading="lazy"></a>
         <h3><a href="rewards-guides.html">Rewards guides: surveys, points and apps, checked first</a></h3>
         <p>Every rewards guide in one place — how points work, survey terms, payout rules and the checks we run first.</p>
         <span class="more"><a href="rewards-guides.html">Browse the collection →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="savings-guides.html" tabindex="-1" aria-hidden="true"><img src="images/savings-guides.jpg" alt="" loading="lazy"></a>
         <h3><a href="savings-guides.html">Save money on groceries and everyday spending</a></h3>
         <p>Every savings guide in one place — price per unit, store brands, weekly routines, pantry checks and cashback apps.</p>
         <span class="more"><a href="savings-guides.html">Browse the collection →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="apps-guides.html" tabindex="-1" aria-hidden="true"><img src="images/apps-guides.jpg" alt="" loading="lazy"></a>
         <h3><a href="apps-guides.html">Apps, checked first: safety, permissions and payouts</a></h3>
         <p>Every apps guide in one place — safety checks, permissions audits, payout rules and the red flags to spot first.</p>
         <span class="more"><a href="apps-guides.html">Browse the collection →</a></span>
       </div>
       <div class="card">
+        <a class="card-img" href="about-how-we-check.html" tabindex="-1" aria-hidden="true"><img src="images/about-how-we-check.jpg" alt="" loading="lazy"></a>
         <h3><a href="about-how-we-check.html">How we check every pick</a></h3>
         <p>Our method: what we walk, what we read, and what we never recommend — including the offer we blacklisted.</p>
         <span class="more"><a href="about-how-we-check.html">Read how we check →</a></span>
@@ -389,13 +439,30 @@
   </div>
 </footer>
 <script>
+/* Deals Alerts: no backend yet, so the address is stored on this device only
+   until the alerts list launches — the success message says exactly that. */
 document.getElementById('alerts-form').addEventListener('submit', function(e){
   e.preventDefault();
   var em = document.getElementById('alerts-email');
   if(!em.value || em.value.indexOf('@') < 1){ em.focus(); return; }
+  try{ localStorage.setItem('spd-alerts-email', em.value); }catch(err){ /* private mode: still show the honest message */ }
   document.getElementById('alerts-ok').style.display = 'block';
   em.value = '';
 });
+/* Scroll reveal: cards fade up as they enter view. Progressive enhancement —
+   without JS (or with reduced motion) everything is simply visible. */
+(function(){
+  var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var cards = document.querySelectorAll('.card');
+  if (reduced || !('IntersectionObserver' in window)) return; /* leave all visible */
+  cards.forEach(function(c){ c.classList.add('reveal'); });
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(en){
+      if (en.isIntersecting){ en.target.classList.add('in'); io.unobserve(en.target); }
+    });
+  }, {threshold: 0.08});
+  cards.forEach(function(c){ io.observe(c); });
+})();
 </script>
 <script src="vendor/three.min.js"></script>
 <script>
